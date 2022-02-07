@@ -20,11 +20,3 @@ $ python2 zafi.py <br>
  [01] methode b-api (crack cepat) <br>
  [02] methode mbasic (crack lambat) <br>
  [03] methode mobile (crack sangat lambat) <br>
-#
-If you can't use this script or there is a bug in the script, please contact me
-#### contact me
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.afrizal.102)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
-#### Donasi Dana :
-+6282371648186
-#
