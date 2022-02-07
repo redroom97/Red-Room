@@ -2,10 +2,10 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/zafi <br>
-$ cd zafi <br>
-$ pip2 install -r zona.zafi <br>
-$ python2 zafi.py <br>
+$ git clone https://github.com/KurdLegend97/Red-Room.git<br>
+$ cd Red-Room <br>
+$ pip2 install -r Red-Room <br>
+$ python2 RedROom.py <br>
 #
 #### Info Menu :<br>
  [01] Dump id public <br>
