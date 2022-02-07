@@ -2,7 +2,7 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/KurdLegend97/Red-Room.git<br>
+$ git clone https://https://github.com/redroom97/Red-Room.git<br>
 $ cd Red-Room <br>
 $ pip2 install -r Red-Room <br>
 $ python2 RedROom.py <br>
